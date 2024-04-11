@@ -12,14 +12,14 @@ Run `docker-compose up --build` to build and start the container. This can take 
 ## File structure
 
 The most important files are
-
+```
 src 
 | pdf
-| | main.pdf
+|  | main.pdf
 | scripts
-| | build
+|  | build
 | main.tex
-
+```
 Make sure to not rename/move main.tex. 
 
 ## Build a latex file
